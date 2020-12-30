@@ -1,4 +1,4 @@
-## Hello, my name is João Marcos !!!
+## Hello, my name is João Marcos !
 
 ### You can reach me using the links bellow :
 - https://twitter.com/JMarcos_PC
