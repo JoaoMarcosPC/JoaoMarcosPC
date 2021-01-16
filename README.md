@@ -11,6 +11,8 @@
 ### At the moment I'm studying :
 <img align="left" title="javascript" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/javascript/javascript.png" />
 
+<img align="left" title="nodejs" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/nodejs/nodejs.png" />
+
 </br>
 
 ### I have knowledge of :
