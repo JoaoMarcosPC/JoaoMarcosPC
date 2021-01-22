@@ -6,7 +6,7 @@
 
 ### Currently I'm a :
 - Information Systems student in <a href="http://www.ufs.br/">Federal University of Sergipe</a>
-- Back end Trainee at Softeam ( Junior Company )
+- Back-end Trainee at Softeam ( Junior Company )
 
 ### At the moment I'm studying :
 <img align="left" title="javascript" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/javascript/javascript.png" />
