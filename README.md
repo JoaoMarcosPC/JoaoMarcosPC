@@ -7,7 +7,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Also, check out my HackerRank profile clicking <a href="https://www.hackerrank.com/JMpeixotoC"><b>Here</b></a>!
+### Also, check out my HackerRank profile by clicking <a href="https://www.hackerrank.com/JMpeixotoC"><b>Here</b></a>!
 
 
 ### Currently I'm a :
