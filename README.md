@@ -7,12 +7,26 @@
   <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+### Also, check out my HackerRank profile clicking <a href="https://www.hackerrank.com/JMpeixotoC"><b>Here</b></a>!
+
 
 ### Currently I'm a :
 - Information Systems student in <a href="http://www.ufs.br/">Federal University of Sergipe</a>
-- Back-end Developer at Softeam ( Junior Company )
+- Back-end Developer at Softeam
 
+### Right now, I'm working with :
+```javascript
 
+  jmpc.tech = {"JavaScript", "Node.js", "Express", "Mongoose", "MongoDB"};
+
+```
+
+### I have knowledge about :
+```javascript
+
+  jmpc.tech = {"HTML", "CSS", "Bash"};
+
+```
 
 <!--
 **JoaoMarcosPC/JoaoMarcosPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
