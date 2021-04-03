@@ -1,27 +1,18 @@
 ## Hello, my name is João Marcos !
 
 ### You can reach me using the links bellow :
-- https://twitter.com/JMarcos_PC
-- https://www.linkedin.com/in/jmarcospc/
+<h2  align="center"></h2>
+<p align="center">
+  <a target="_blank"href="https://twitter.com/JMarcos_PC"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 ### Currently I'm a :
 - Information Systems student in <a href="http://www.ufs.br/">Federal University of Sergipe</a>
 - Back-end Developer at Softeam ( Junior Company )
 
-### At the moment I'm studying :
 
-<img align="left" title="nodejs" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/nodejs/nodejs.png" />
-
-<img align="left" title="express" alt="express" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/express/express.png" />
-
-</br>
-
-### I have knowledge of :
-<img align="left" title="html" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/html/html.png" />
-
-<img align="left" title="javascript" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/javascript/javascript.png" />
-
-<img align="left" title="es6" alt="es6" width="30px" src="https://raw.githubusercontent.com/github/explore/2540486f8777ac3afd99d5e37ac7ffc25dd5196a/topics/es6/es6.png" />
 
 <!--
 **JoaoMarcosPC/JoaoMarcosPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
