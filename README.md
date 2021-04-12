@@ -11,7 +11,7 @@
 
 
 ### Currently I'm a :
-- Information Systems student in <a href="http://www.ufs.br/">Federal University of Sergipe</a>
+- Information Systems student at <a href="http://www.ufs.br/">Federal University of Sergipe</a>
 - Back-end Developer at Softeam
 
 ### Right now, I'm working with :
