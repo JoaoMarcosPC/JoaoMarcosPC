@@ -17,7 +17,7 @@
 ### Right now, I'm working with :
 ```javascript
 
-  jmpc.techNow = {"JavaScript", "Node.js", "Express", "Mongoose", "MongoDB"};
+  jmpc.techNow = {"JavaScript", "Nodejs", "Express", "Mongoose", "MongoDB"};
 
 ```
 
