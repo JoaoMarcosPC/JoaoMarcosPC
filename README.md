@@ -24,7 +24,7 @@
 ### I have knowledge about :
 ```javascript
 
-  jmpc.tech = {"HTML", "CSS", "Python", "Bash", "Haskell", "TypeScript", "Docker", "Swagger"};
+  jmpc.tech = {"HTML", "CSS", "Python", "Haskell", "TypeScript", "Docker", "Swagger"};
 
 ```
 
