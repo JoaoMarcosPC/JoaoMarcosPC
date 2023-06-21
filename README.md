@@ -11,7 +11,6 @@
 
 ### Currently I'm a :
 - Information Systems student at <a href="http://www.ufs.br/">Federal University of Sergipe</a>
-- Project manager at Softeam
 
 ### Right now, I'm working with :
 ```javascript
