@@ -1,4 +1,4 @@
-## Hello, my name is João Marcos !
+## Hello, my name is João Marcos!
 
 ### You can reach me using the links bellow :
 <h2  align="center"></h2>
