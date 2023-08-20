@@ -4,7 +4,7 @@
 <h2  align="center"></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.hackerrank.com/JMpeixotoC"><img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.hackerrank.com/JMpeixotoC"><img src="https://img.shields.io/badge/hackerrank-%00B14F.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://leetcode.com/JoaoMarcosPC/"><img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
