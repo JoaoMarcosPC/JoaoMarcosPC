@@ -4,12 +4,9 @@
 <h2  align="center"></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.hackerrank.com/JMpeixotoC"><img src="https://img.shields.io/badge/hackerrank-%00B14F.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://leetcode.com/JoaoMarcosPC/"><img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.hackerrank.com/JMpeixotoC"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://leetcode.com/JoaoMarcosPC/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-### Also, check out my HackerRank profile by clicking <a href="https://www.hackerrank.com/JMpeixotoC"><b>Here</b></a>!
-
 
 ### Currently I'm a :
 - Information Systems student at <a href="http://www.ufs.br/">Federal University of Sergipe</a>
