@@ -1,9 +1,11 @@
 ## Hello, my name is João Marcos!
 
-### You can reach me using the links bellow :
+### Here are some useful links :
 <h2  align="center"></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jmarcospc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.hackerrank.com/JMpeixotoC"><img src="https://img.shields.io/badge/hackerrank-%230077B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://leetcode.com/JoaoMarcosPC/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Also, check out my HackerRank profile by clicking <a href="https://www.hackerrank.com/JMpeixotoC"><b>Here</b></a>!
