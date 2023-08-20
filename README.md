@@ -8,21 +8,21 @@
   <a target="_blank"href="https://leetcode.com/JoaoMarcosPC/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Currently I'm a :
-- Information Systems student at <a href="http://www.ufs.br/">Federal University of Sergipe</a>
+---
+
+### Currently I'm a Information Systems student at <a href="http://www.ufs.br/">Sergipe's Federal University</a>
+
+---
 
 ### Right now, I'm working with :
-```javascript
-
-  jmpc.techNow = {"JavaScript", "Nodejs", "Express", "Mongoose", "MongoDB"};
-
+```java
+  String[] technow = { "JavaScript", "Nodejs", "Express", "Mongoose", "MongoDB"}; 
 ```
+---
 
 ### I have knowledge about :
-```javascript
-
-  jmpc.tech = {"Java", "Python", "Haskell", "TypeScript", "Docker", "Swagger"};
-
+```java
+  String[] tech = {"Java", "Python", "Haskell", "TypeScript", "Docker", "Swagger"};
 ```
 
 <!--
