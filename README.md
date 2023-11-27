@@ -5,10 +5,10 @@ I'm a developer from Brazil and currently a Information Systems student at <a hr
 
 ## 💻 Skills
 #### Rigth now I'm working with:
-Docker | PHP
+Docker | Java | MySQL
 
 #### I also have knowledge about:
-Java | JavaScript | Nodejs | Express | MongoDB
+JavaScript | Nodejs | Express | MongoDB
 
 ---
 
