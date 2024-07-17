@@ -1,6 +1,5 @@
 ## Hello, I am João Marcos!
 I'm a Information Systems student at <a href="http://www.ufs.br/">Sergipe's Federal University</a>. Working mainly with *Backend* and *Devops* technologies.
-
 ---
 
 ## 💻 Skills
@@ -9,7 +8,6 @@ Java | Docker| MySQL
 
 #### I also have knowledge about:
 JavaScript | Nodejs | MongoDB
-
 ---
 
 ## 🌎 You can reach me and check some of my skills using the following links :
