@@ -1,14 +1,14 @@
 ## Hello, I am João Marcos!
-I'm a developer from Brazil and currently a Information Systems student at <a href="http://www.ufs.br/">Sergipe's Federal University</a>. I work mainly with *Backend* and *Devops* technologies.
+I'm a Information Systems student at <a href="http://www.ufs.br/">Sergipe's Federal University</a>. Working mainly with *Backend* and *Devops* technologies.
 
 ---
 
 ## 💻 Skills
-#### Rigth now I'm working with:
-Docker | Java | MySQL
+#### Rigth now I'm studying:
+Java | Docker| MySQL
 
 #### I also have knowledge about:
-JavaScript | Nodejs | Express | MongoDB
+JavaScript | Nodejs | MongoDB
 
 ---
 
