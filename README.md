@@ -4,7 +4,7 @@ I'm a Information Systems student at <a href="http://www.ufs.br/">Sergipe's Fede
 
 ## 💻 Skills
 #### Rigth now I'm studying:
-Java | Docker| MySQL
+Java | Spring | Docker| Postgres
 
 #### I also have knowledge about:
 JavaScript | Nodejs | MongoDB
